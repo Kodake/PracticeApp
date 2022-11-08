@@ -16,6 +16,8 @@
                 int value2 = Convert.ToInt32(second);
                 int result = value1 / value2;
                 Console.WriteLine($"El producto dividido es: {result}");
+                Console.WriteLine("Presione Enter para salir");
+                Console.ReadKey();
             }
             catch (Exception)
             {

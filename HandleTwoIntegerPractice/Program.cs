@@ -27,6 +27,8 @@
                 string? second = Console.ReadLine();
                 int value2 = Convert.ToInt32(second);
                 Console.WriteLine($"Segundo valor: {value2}");
+                Console.WriteLine("Presione Enter para salir");
+                Console.ReadKey();
             }
             catch (Exception)
             {

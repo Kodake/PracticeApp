@@ -13,6 +13,8 @@
                 string? number = Console.ReadLine();
                 Convert.ToDecimal(number);
                 Console.WriteLine($"El valor ingresado es: {number?.TrimStart().TrimEnd()}");
+                Console.WriteLine("Presione Enter para salir");
+                Console.ReadKey();
             }
 			catch (Exception)
 			{
