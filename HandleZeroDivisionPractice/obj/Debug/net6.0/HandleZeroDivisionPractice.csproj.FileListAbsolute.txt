@@ -1,0 +1,15 @@
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\HandleZeroDivisionPractice.csproj.AssemblyReference.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\HandleZeroDivisionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\HandleZeroDivisionPractice.AssemblyInfoInputs.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\HandleZeroDivisionPractice.AssemblyInfo.cs
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\HandleZeroDivisionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\bin\Debug\net6.0\HandleZeroDivisionPractice.exe
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\bin\Debug\net6.0\HandleZeroDivisionPractice.deps.json
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\bin\Debug\net6.0\HandleZeroDivisionPractice.runtimeconfig.json
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\bin\Debug\net6.0\HandleZeroDivisionPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\bin\Debug\net6.0\HandleZeroDivisionPractice.pdb
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\HandleZeroDivisionPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\refint\HandleZeroDivisionPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\HandleZeroDivisionPractice.pdb
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\HandleZeroDivisionPractice.genruntimeconfig.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleZeroDivisionPractice\obj\Debug\net6.0\ref\HandleZeroDivisionPractice.dll

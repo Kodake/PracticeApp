@@ -1,0 +1,15 @@
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\bin\Debug\net6.0\HandleNumbersPractice.exe
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\bin\Debug\net6.0\HandleNumbersPractice.deps.json
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\bin\Debug\net6.0\HandleNumbersPractice.runtimeconfig.json
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\bin\Debug\net6.0\HandleNumbersPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\bin\Debug\net6.0\HandleNumbersPractice.pdb
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\HandleNumbersPractice.csproj.AssemblyReference.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\HandleNumbersPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\HandleNumbersPractice.AssemblyInfoInputs.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\HandleNumbersPractice.AssemblyInfo.cs
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\HandleNumbersPractice.csproj.CoreCompileInputs.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\HandleNumbersPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\refint\HandleNumbersPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\HandleNumbersPractice.pdb
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\HandleNumbersPractice.genruntimeconfig.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleNumbersPractice\obj\Debug\net6.0\ref\HandleNumbersPractice.dll

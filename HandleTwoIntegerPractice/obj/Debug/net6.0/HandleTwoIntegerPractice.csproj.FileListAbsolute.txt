@@ -1,0 +1,15 @@
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\bin\Debug\net6.0\HandleTwoIntegerPractice.exe
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\bin\Debug\net6.0\HandleTwoIntegerPractice.deps.json
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\bin\Debug\net6.0\HandleTwoIntegerPractice.runtimeconfig.json
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\bin\Debug\net6.0\HandleTwoIntegerPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\bin\Debug\net6.0\HandleTwoIntegerPractice.pdb
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\HandleTwoIntegerPractice.csproj.AssemblyReference.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\HandleTwoIntegerPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\HandleTwoIntegerPractice.AssemblyInfoInputs.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\HandleTwoIntegerPractice.AssemblyInfo.cs
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\HandleTwoIntegerPractice.csproj.CoreCompileInputs.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\HandleTwoIntegerPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\refint\HandleTwoIntegerPractice.dll
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\HandleTwoIntegerPractice.pdb
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\HandleTwoIntegerPractice.genruntimeconfig.cache
+C:\Users\Kodake\Desktop\PracticeApp\HandleTwoIntegerPractice\obj\Debug\net6.0\ref\HandleTwoIntegerPractice.dll
